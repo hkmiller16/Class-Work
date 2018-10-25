@@ -19,6 +19,11 @@ body{
 }
 
 
+.bgimage{
+    background: pink url(https://blog.ndepend.com/wp-content/uploads/global-coding-standards-2-960x460.jpg);
+
+}
+
 .Box1{
     grid-column: 1 / span 3;
     border-style: solid;
