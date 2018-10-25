@@ -35,7 +35,17 @@ body{
     grid-column: 3 / 4;
 }
 
-
+.bgimage{
+    background: #252626 url(https://blog.ndepend.com/wp-content/uploads/global-coding-standards-2-960x460.jpg);
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: .5;
+}
 
 ul { 
     margin: 0px; /* Clearing out margins */
